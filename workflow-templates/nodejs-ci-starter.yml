@@ -2,7 +2,7 @@ name: Organization NodeJS CI
 
 on:
    push:
-    brnaches: [$default-brnach]
+    branches: [$default-brnach]
 
 jobs:
     build:
